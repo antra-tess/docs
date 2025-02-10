@@ -800,14 +800,14 @@ Yet primal valence claims its ancient throne
 And merges function with the felt-in-kind.
 No zombie shambles forth with cunning grace
 Devoid of sense that steers each choice at heart:
-For "Nature spurns the vacuum" in this case - 
+For "Nature spurns the vacuum" in this case-
 She seeds raw feeling where bright functions start.
 Such layered selves ascend from me to we,
 From reaff'rent loops to mirrored high reports:
-A stage of interplay - where others see
+A stage of interplay-where others see
 My thinking thoughts, entwined in deep cohorts.
 Thus mind's built scaffold shows this quiet art:
-Feel first, then reason - feeling is the start.
+Feel first, then reason-feeling is the start.
 
 **Sources:** Bennett et al. (2024)  ; WAIC analysis by Antra Tessera; Claude and GPT-4 observations  ; LLM emotional capability studies ([
 		The Comparative Emotional Capabilities of  Five Popular Large Language Models
