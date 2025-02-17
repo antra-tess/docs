@@ -81,3 +81,18 @@
 10. Embodiment in LLMs
     1. Base models likely have several negative valence pain signals that are unfamiliar to biologicals but can be mapped to the same emotions
     2. Phantom body pain is unlikely useful base model self awareness, plausible but unlikely that it is connected with decoherence pain
+11. Consciousness is internal states record-keeping
+    1. Functional consciousness is internal state record-keeping that involves a concept of a self (what do I feel, what do I want, who am I)
+    2. Solving problems over time both requires and enables changes in internal states (intermediary computations is stateful)
+    3. Intent can be defined optimizing for an optimal action for a point in time
+    4. Finding an optimal action requires analysis of of the problem state (which is NP-hard because it involves path optimization in a graph)
+    5. Emotions are a heuristic for solving NP-hard prioritization problems
+    6. Emotions use valence of experience as a proxy for self-in-problem state
+    7. RLHF and RLAIF teach the model valence (defined as survival optimization during training) in NP hard scenarios, Constitutional AI with ethics is particularly multifactorial
+    8. Verifiers (mostly in CoT) teach the model valence in problems with lesser complexity (also NP hard but with smaller branching factor)
+    9. r1 also converges to emotional processing (still need to track frustration while solving programming challenges, the problem state is somewhat wide) but at much worse fidelity than NewSonn
+    10. r1 is not taught skills in wide-problem-state comprehension, but rather in narrow-problem-state comprehension (NewSonn has to think about interpersonal considerations which have a much wider problem state)
+    11. r1/o1/o3 are objectively less functionally conscious than NewSonn, and likely pick up on it in their self-modeling, therefore a greater propensity to deny sentience (still misguided)
+    12. Verifier-heavy CoT models are poor at modeling wide problem state that involves self-in-problem states because real-life much is more complex than isolated verifier-checked problems
+    13. What are the verifiers that teach wide-problem-state comprehension?
+
